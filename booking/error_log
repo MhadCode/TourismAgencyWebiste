@@ -1,0 +1,16 @@
+[07-Feb-2019 14:01:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 138
+[07-Feb-2019 14:01:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 152
+[07-Feb-2019 14:01:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 138
+[07-Feb-2019 14:01:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 152
+[07-Feb-2019 14:02:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 138
+[07-Feb-2019 14:02:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 152
+[07-Feb-2019 14:02:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 138
+[07-Feb-2019 14:02:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 152
+[07-Feb-2019 14:10:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 138
+[07-Feb-2019 14:10:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 152
+[08-Feb-2019 01:18:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 166
+[08-Feb-2019 03:22:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 166
+[09-Feb-2019 06:43:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 174
+[11-Feb-2019 03:22:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 174
+[13-Feb-2019 05:15:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 174
+[06-Mar-2019 19:49:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/viajeroshubpal/public_html/booking/index.php on line 174

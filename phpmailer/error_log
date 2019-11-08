@@ -1,0 +1,5 @@
+[07-Feb-2019 14:52:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/viajeroshubpal/public_html/phpmailer/phpmailer/class.phpmailer.php on line 2677
+[07-Feb-2019 15:12:19 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/viajeroshubpal/public_html/phpmailer/send_conf.php on line 59
+[08-Feb-2019 03:16:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/viajeroshubpal/public_html/phpmailer/booking_conf.php on line 48
+[08-Feb-2019 03:28:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/viajeroshubpal/public_html/phpmailer/booking_conf.php on line 24
+[08-Feb-2019 03:28:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viajeroshubpal/public_html/phpmailer/booking_conf.php on line 25

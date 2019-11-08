@@ -1,0 +1,76 @@
+[07-Feb-2019 13:24:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 8
+[07-Feb-2019 13:24:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 8
+[07-Feb-2019 13:27:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 8
+[07-Feb-2019 13:27:52 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/viajeroshubpal/public_html/config/mysqli.php on line 4
+[07-Feb-2019 13:28:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:29:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:29:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:29:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:31:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:32:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:32:53 UTC] PHP Warning:  include(../indexold.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:32:53 UTC] PHP Warning:  include(../indexold.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:32:53 UTC] PHP Warning:  include(): Failed opening '../indexold.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:35:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:35:26 UTC] PHP Warning:  include(../indexold.html): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:35:26 UTC] PHP Warning:  include(../indexold.html): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:35:26 UTC] PHP Warning:  include(): Failed opening '../indexold.html' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/viajeroshubpal/public_html/config/mysqli.php on line 28
+[07-Feb-2019 13:36:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 27
+[07-Feb-2019 13:37:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:38:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:42:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:45:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:31 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:47:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:38 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:47:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:43 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:47:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:47:59 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:01 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:05 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:14 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:16 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:21 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:21 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:48:22 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:48:22 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:49:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:49:39 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/viajeroshubpal/public_html/config/error/indexold.php on line 19
+[07-Feb-2019 13:49:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:49:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:49:44 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:49:44 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:49:44 UTC] PHP Warning:  include(): Failed opening '../path.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:49:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:49:50 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:49:50 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:49:50 UTC] PHP Warning:  include(): Failed opening '../path.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:50:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:50:12 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:50:12 UTC] PHP Warning:  include(../path.php): failed to open stream: No such file or directory in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:50:12 UTC] PHP Warning:  include(): Failed opening '../path.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/viajeroshubpal/public_html/config/error/indexold.php on line 1
+[07-Feb-2019 13:50:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:50:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:50:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:51:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 27
+[07-Feb-2019 13:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 27
+[07-Feb-2019 13:51:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 27
+[07-Feb-2019 13:52:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:55:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:55:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:55:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'viajeroshubpal_admin'@'localhost' (using password: NO) in /home/viajeroshubpal/public_html/config/mysqli.php on line 25
+[07-Feb-2019 13:57:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/viajeroshubpal/public_html/package/packageOne.php on line 23
+[07-Feb-2019 13:57:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/viajeroshubpal/public_html/package/packageOne.php on line 24
+[07-Feb-2019 13:57:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/viajeroshubpal/public_html/package/packageOne.php on line 26
+[07-Feb-2019 13:57:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viajeroshubpal/public_html/package/packageOne.php on line 27
